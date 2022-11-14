@@ -1,4 +1,4 @@
-<img src="./devcard.svg" width="250" alt="Azizul Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/azizul7m"> <img src="./devcard.svg" width="250" alt="Azizul Islam's Dev Card"/></a>
 
 - 👋 Hi, I’m @Azizul7m
 - 👀 I’m interested in 
