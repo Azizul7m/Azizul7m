@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/azizul7m/my-stack)
+
 
 
 
