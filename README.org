@@ -6,8 +6,7 @@
 Full-stack developer passionate about building innovative digital solutions. Proficient in HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, REST APIs, GraphQL, and Redux. Always seeking to expand my skills and knowledge.
 
 ** Skills
-- Full-stack development 
-- HTML5, CSS3, JavaScript 
+- Reactjs,
 - Node.js, Express.js 
 - MongoDB 
 - REST APIs 
@@ -16,21 +15,16 @@ Full-stack developer passionate about building innovative digital solutions. Pro
 - Git 
 - Bash, Linux 
 - Docker 
-- ArchLinux, Hyperland
+- NixOS, Hyperland
 
 ** Passion
 - Embracing new challenges 
 - Exploring the world 
 - Reading books 
 - Watching movies 
-- Tinkering with ArchLinux and Hyperland 
-
 
 ** Contact
 - Twitter: @azizul7m
+- Telegram: @azizul7m
 - LinkedIn: linkedin.com/in/azizul7m
 - Facebook: facebook.com/azizul7m
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/azizul7m/my-stack)
-
-<a href="https://app.daily.dev/azizul7m"> <img src="./devcard.svg" width="250" alt="Azizul Islam's Dev Card"/></a>
