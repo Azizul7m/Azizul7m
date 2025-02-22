@@ -1,5 +1,5 @@
 # grepper  azizul7m
-* Md Azizul Islam (Anower)
+* Azizul Islam (Anower)
 
 Full-stack developer passionate about building innovative digital solutions. Proficient in HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, REST APIs, GraphQL, and Redux. Always seeking to expand my skills and knowledge.
 ** Skills
